@@ -9,6 +9,10 @@ Desenvolvedor **Junior/Pleno** focado em **Apps Mobile e Web** com experiência 
 
 ---
 
+<a href="https://app.rocketseat.com.br/me/bruno-mosko"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=bruno-mosko&type=card" width="280" alt="Bruno Henrique da Silva Mosko's Rocket ID"/></a>
+
+---
+
 ## 🚀 Sobre mim
 
 Apaixonado por tecnologia e desenvolvimento de interfaces intuitivas e responsivas. Sou o tipo de pessoa que não fica parado, e que adora sempre se renovar com o que existe de melhor.
